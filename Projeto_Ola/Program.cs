@@ -6,6 +6,7 @@ namespace Projeto_Ola {
 
             Console.WriteLine("Olá Mundão!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Tenha um otimo dia");
 
             Console.ReadLine();
         }
